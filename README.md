@@ -7,7 +7,7 @@
 <h1 align="center"> Predição da eficiência de energia renovável usando Redes Neurais </h1>
 
 ### Tarrasque, Turma 2024
-###  Enzo Janucci, Glauber Nascimento de Oliveira e Raquel de Godoy Vianna
+###  Enzo Januzzi, Glauber Nascimento de Oliveira e Raquel de Godoy Vianna
 ###  Redes Neurais e Algoritmos Genéticos -  Prof. Dr. Daniel Cassar
 
  <h4 align="center"> 
