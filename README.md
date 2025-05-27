@@ -9,13 +9,13 @@
 ###  Enzo Januzzi, Glauber Nascimento de Oliveira e Raquel de Godoy Vianna
 ###  Redes Neurais e Algoritmos Genéticos -  Prof. Dr. Daniel Cassar
 
-<p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
-</p>
-
  <h4 align="center"> 
      Educational Purpouse
 </h4>
+
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
 
 <h2 align="left"> 💡 Descrição </h2>
 
