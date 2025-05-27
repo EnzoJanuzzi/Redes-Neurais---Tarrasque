@@ -1,4 +1,3 @@
-<div align="center">
 
 <img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/bcfc56a4-b124-4988-88b4-e860cb438f27" width=800>
 
@@ -7,7 +6,7 @@
 <h1 align="center"> Predição da eficiência de energia renovável usando Redes Neurais </h1>
 
 ### Tarrasque, Turma 2024
-###  Enzo Janucci e Glauber Nascimento de Oliveira  
+###  Enzo Januzzi, Glauber Nascimento de Oliveira e Raquel de Godoy Vianna
 ###  Redes Neurais e Algoritmos Genéticos -  Prof. Dr. Daniel Cassar
 
  <h4 align="center"> 
@@ -100,8 +99,8 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 
 <div align="center">
 
-|  [<img loading="lazy" src="https://github.com/user-attachments/assets/421a946a-dd10-4477-8f3f-e1a277d997b0" width=115><br><sub>Glauber Nascimento de Oliveira</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172424999/b5e432b6-bf0c-42a1-88c3-68df3c7d7545" width=115><br><sub>Enzo Januzzi</sub>](https://github.com/EnzoJanuzzi)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| :---: | :---: |
+|  [<img loading="lazy" src="https://github.com/user-attachments/assets/0c4d1ac3-f05b-499f-8618-bfaf749b3504" width=115><br><sub>Glauber Nascimento</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172424999/b5e432b6-bf0c-42a1-88c3-68df3c7d7545" width=115><br><sub>Enzo Januzzi</sub>](https://github.com/EnzoJanuzzi)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [<img loading="lazy" src="https://github.com/user-attachments/assets/abf88829-f67d-4d53-8a36-0bf7d70d21e4" width=115><br><sub>Raquel de Godoy Vianna</sub>](https://github.com/RaquelGVianna)<br> [<sub>Currículo Lattes</sub>](https://lattes.cnpq.br/7590950936353244)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/raquel-de-godoy-vianna-58b5b92a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
+| :---: | :---: | :---: |
 
 <div align="center">
 
