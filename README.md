@@ -1,4 +1,3 @@
-![172425251](https://github.com/user-attachments/assets/77d5d1ae-2519-4883-8b90-b68f54c20a42)<div align="center">
 
 <img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172425065/bcfc56a4-b124-4988-88b4-e860cb438f27" width=800>
 
