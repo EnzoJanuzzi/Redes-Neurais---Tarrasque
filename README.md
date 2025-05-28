@@ -13,6 +13,10 @@
      Educational Purpouse
 </h4>
 
+<p align="center">
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
+</p>
+
 <h2 align="left"> 💡 Descrição </h2>
 
 <div align="justify">
@@ -99,8 +103,8 @@ Depois de baixar o projeto você deve abrí-lo no Jupyter Notebook/VS code
 
 <div align="center">
 
-|  [<img loading="lazy" src="https://github.com/user-attachments/assets/0c4d1ac3-f05b-499f-8618-bfaf749b3504" width=115><br><sub>Glauber Nascimento</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172424999/b5e432b6-bf0c-42a1-88c3-68df3c7d7545" width=115><br><sub>Enzo Januzzi</sub>](https://github.com/EnzoJanuzzi)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [<img loading="lazy" src="https://github.com/user-attachments/assets/abf88829-f67d-4d53-8a36-0bf7d70d21e4" width=115><br><sub>Raquel de Godoy Vianna</sub>](https://github.com/RaquelGVianna)<br> [<sub>Currículo Lattes</sub>](https://lattes.cnpq.br/7590950936353244)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/raquel-de-godoy-vianna-58b5b92a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
-| :---: | :---: | :---: |
+|  [<img loading="lazy" src="https://github.com/user-attachments/assets/0c4d1ac3-f05b-499f-8618-bfaf749b3504" width=115><br><sub>Glauber Nascimento</sub>](https://github.com/Glaubernaoli)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/0913262665776521)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/glauber-naoli/) |  [<img loading="lazy" src="https://github.com/Glaubernaoli/PCD---GenomeIdentifier/assets/172424999/b5e432b6-bf0c-42a1-88c3-68df3c7d7545" width=115><br><sub>Enzo Januzzi</sub>](https://github.com/EnzoJanuzzi)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1031555112242239)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/enzo-januzzi-xavier-9063842b0/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [<img loading="lazy" src="https://github.com/user-attachments/assets/abf88829-f67d-4d53-8a36-0bf7d70d21e4" width=115><br><sub>Raquel de Godoy Vianna</sub>](https://github.com/RaquelGVianna)<br> [<sub>Currículo Lattes</sub>](https://lattes.cnpq.br/7590950936353244)<br> [<sub>Linkedin</sub>](https://www.linkedin.com/in/raquel-de-godoy-vianna-58b5b92a7?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) | [<img loading="lazy" src="https://github.com/user-attachments/assets/463d4753-7fa4-4a42-aa54-409e4150bb51" width=115><br> <sub> Prof. Dr. Daniel R. Cassar </sub>](https://github.com/drcassar)<br> [<sub>Ilum - CNPEM</sub>](https://ilum.cnpem.br/)<br> [<sub>Currículo Lattes</sub>](http://lattes.cnpq.br/1717397276752482) | 
+| :---: | :---: | :---: | :---: |
 
 <div align="center">
 
