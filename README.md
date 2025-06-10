@@ -54,7 +54,7 @@ Buscamos prever dois targets, `Storage_Efficiency_Percentage` e `GHC_Emission_Re
 
 <div align="justify">
 
- `Rede Neural Perceptron Multicamadas`: É uma rede neural com uma ou mais camadas ocultas com números indeterminados de neurônios em cada caamada oculta.
+ `Rede Neural Perceptron Multicamadas`: É uma rede neural com uma ou mais camadas ocultas com números indeterminados de neurônios em cada camada oculta.
 
  `Optuna`: É um otimizador automático de hiperparâmetros.
 
