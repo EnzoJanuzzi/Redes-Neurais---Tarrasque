@@ -58,7 +58,8 @@ Buscamos prever dois targets, `Storage_Efficiency_Percentage` e `GHC_Emission_Re
 
  `Optuna`: É um otimizador automático de hiperparâmetros.
 
-</div>
+<!--
+<div>
 
 <h2 align="left"> 🧰 Métricas Usadas </h2>
 
@@ -73,6 +74,10 @@ Buscamos prever dois targets, `Storage_Efficiency_Percentage` e `GHC_Emission_Re
 `blibliblub`: métrica...
 
 </div>
+
+</div>
+-->
+
 
 <h2 align="left"> 📁 Acesso ao projeto </h2>
 
